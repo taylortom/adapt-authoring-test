@@ -3,6 +3,6 @@
   "version": "0.0.1",
   "main": "index.js",
   "dependencies": {
-    "adapt-authoring-testNest": "github:adapt-security/adapt-authoring-testNest.git"
+    "adapt-authoring-testNest": "github:taylortom/adapt-authoring-testNest.git"
   }
 }
